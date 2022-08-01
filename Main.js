@@ -35,7 +35,20 @@ var getScriptPromisify = (src) => {
 
       const chart = echarts.init(this._root)
       const option = {
-        // https://echarts.apache.org/examples/zh/index.html
+            // https://echarts.apache.org/examples/zh/index.html
+          xAxis: {
+            type: 'category',
+            data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+          },
+          yAxis: {
+            type: 'value'
+          },
+          series: [
+            {
+              data: [150, 230, 224, 218, 135, 147, 260],
+              type: 'line'
+            }
+          ]
       }
       chart.setOption(option)
     }
