@@ -181,5 +181,5 @@ div.testColumn4{
 
     });
     
-    customElements.define('com-demo-miltonfirstcw', Milton)
+    customElements.define('com-demo-miltonfirstcw', Milton);
 })();
