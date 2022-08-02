@@ -5,7 +5,7 @@
 	<div class="testTable">
 		<div class="testRow">
 			<div class="testColumn1">
-				Armando
+				Armando Jorge
 			</div>
 			<div class="testColumn2">
 				Santos<br/>
