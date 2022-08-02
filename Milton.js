@@ -448,5 +448,5 @@ div.testColumn4{
         };
 
     });
-
+customElements.define('com-demo-miltonFirtsWidget', Milton)
 })();
