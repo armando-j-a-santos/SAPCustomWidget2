@@ -4,7 +4,7 @@
 <div id="table" style="width:100%">
 	<div class="testTable">
 		<div class="testRow">
-			<div class="testColumn1">
+			<div class="testColumn3">
 				Armando Jorge A. Santos
 			</div>
 			<div class="testColumn2">
