@@ -82,7 +82,7 @@ div.testColumn4{
     </style>
     `;
 
-    customElements.define('com-demo-miltonFirtsWidget', class DiAutoComplete extends HTMLElement {
+    customElements.define('com-demo-miltonfirstcw', class DiAutoComplete extends HTMLElement {
 
 
         constructor() {
@@ -448,5 +448,5 @@ div.testColumn4{
         };
 
     });
-customElements.define('com-demo-miltonFirtsWidget', Milton)
+customElements.define('com-demo-miltonfirstcw', Milton)
 })();
